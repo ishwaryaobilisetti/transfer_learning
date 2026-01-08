@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+env/
+
+# Large temporary files
+*.zip
+*.tar
+*.gz
+
+# Colab & cache
+.cache/
